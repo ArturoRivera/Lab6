@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Triangle
-comment0.text=\n\ This\ class\ represents\ a\ triangle\ with\ a\ name,\ base,\ and\ height\ and\ uses\ the\ constructors\ to\n\ create\ a\ new\ instance\ of\ the\ triangle\ and\ calculate\ its\ area.\n\n\ @author\ Arturo\ Rivera,\ arivera030@student.sdccd.edu\n\ @version\ 1.0\n\ @since\ 10/26/2025\n
+comment0.text=\n\ This\ class\ represents\ a\ triangle\ with\ a\ name,\ base,\ and\ height\ \n\ and\ uses\ the\ constructors\ to\ create\ a\ new\ instance\ of\ the\ triangle\ \n\ and\ calculate\ its\ area.\n\n\ @author\ Arturo\ Rivera,\ arivera030@student.sdccd.edu\n\ @version\ 1.0\n\ @since\ 10/26/2025\n
 comment1.params=
 comment1.target=Triangle()
 comment1.text=\n\ No-argument\ constructor.\n\ Sets\ name\ to\ "Unknown"\ and\ base/height\ to\ 0.0.\n

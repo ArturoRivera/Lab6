@@ -1,8 +1,9 @@
 import java.util.Scanner;
 
 /**
- * This class represents a triangle with a name, base, and height and uses the constructors to
- * create a new instance of the triangle and calculate its area.
+ * This class represents a triangle with a name, base, and height 
+ * and uses the constructors to create a new instance of the triangle 
+ * and calculate its area.
  *
  * @author Arturo Rivera, arivera030@student.sdccd.edu
  * @version 1.0
@@ -74,7 +75,7 @@ public class Triangle {
 
         System.out.print("What is the triangle's height: ");
         height = input.nextDouble();
-        input.nextLine(); // clear leftover newline
+        input.nextLine();
     }
 
     /**
